@@ -1,5 +1,9 @@
 package br.edu.ifg.corrida;
-
+/**
+ * @author Patrick Cavalcante Moraes
+ * @email patrick0000.pc@gmail.com	
+ * @date 2019/09/24
+ */
 public class Lista {
 	private No inicio = null;
 	private int tamanho = 0;
